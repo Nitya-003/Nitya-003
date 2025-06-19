@@ -42,8 +42,6 @@ Domains:      AI, Web Dev, Cybersecurity, DSA
 #### 🧭 AI-Powered Career Mapping Tool
 An intelligent tool designed to recommend personalized career paths for students based on their interests, academic history, and personality traits.
 
-![Career Mapping](https://cdn.dribbble.com/users/14268/screenshots/4492417/media/6d3f524b8e9a0402f22c7f89e1cd1de7.png)
-
 **🛠 Tech Stack:** React.js · Flask · Machine Learning · Firebase
 
 ---
