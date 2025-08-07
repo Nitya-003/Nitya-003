@@ -53,17 +53,6 @@
 
 ---
 
-
-### 📊 GitHub Stats & Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitya-003&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitya-003&theme=tokyonight&hide_border=true" height="170px" />
-</p>
-
-
----
-
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitya-gosain-42037328b)
