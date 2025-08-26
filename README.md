@@ -9,13 +9,14 @@
 
 ### 👩‍💻 About Me  
 
-- 🎓 B.Tech CSE’28
-- 🌱 Currently building solutions at the intersection of tech, design, and purpose  
-- 🧠 Exploring ideas in **Web Development**, **AI**, and **Blockchain**  
-- 💡 Passionate about research & open-source collaboration  
-- 💬 I thrive on challenges and learn by doing
-
----
+```bash
+NAME="Nitya Gosain"
+DEGREE="Bachelor of Technology in CSE’28"
+CURRENT_PROJECT="Building solutions at the intersection of tech, design & purpose"
+INTERESTS=("Web Development" "AI" "Blockchain")
+PASSION="Research & Open-source collaboration"
+LEARNING_METHOD="I thrive on challenges and learn by doing"
+```
 
 ### 🏆 Achievements & Programs
 
@@ -23,9 +24,6 @@
 - 💻 **Contributor @GirlScript Summer of Code '25**
 - 🚀 **Contributor @ Social Summer of Code '25**
 - 💼 **Microsoft Code Without Barriers '25**
-- 🤖 **Ex-Apprentice @ Infosys '25**
-- 💻 **Ex-Intern @ Placify Technologies '24**
-- 🌍 **Member @ Google Women Techmakers**
 
 ---
 
@@ -46,10 +44,13 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-#### 🌐 Domains
-![AI](https://img.shields.io/badge/AI-brightgreen?style=for-the-badge)
-![Web Dev](https://img.shields.io/badge/Web--Dev-blue?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-purple?style=for-the-badge)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitya-003&theme=radical" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -60,3 +61,4 @@
 - 💻 GitHub: [@Nitya-003](https://github.com/Nitya-003)
 
 ---
+
