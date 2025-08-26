@@ -46,14 +46,6 @@ LEARNING_METHOD="I thrive on challenges and learn by doing"
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitya-003&theme=radical" alt="Contribution Graph" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitya-gosain-42037328b)
