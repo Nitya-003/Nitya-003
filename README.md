@@ -13,7 +13,7 @@
 NAME="Nitya Gosain"
 DEGREE="Bachelor of Technology in CSE’28"
 CURRENT_PROJECT="Building solutions at the intersection of tech, design & purpose"
-INTERESTS=("Web Development" "AI" "Blockchain")
+INTERESTS="Web Development" "AI" "Blockchain"
 PASSION="Research & Open-source collaboration"
 LEARNING_METHOD="I thrive on challenges and learn by doing"
 ```
