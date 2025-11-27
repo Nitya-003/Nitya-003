@@ -55,7 +55,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nitya-003&show_icons=true&theme=buefy&hide_border=true" alt="Nitya's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitya-003&theme=buefy&hide_border=true" alt="Nitya's GitHub Streak"/>
 </p>
 
 ---
