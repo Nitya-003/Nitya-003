@@ -51,14 +51,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitya-003&show_icons=true&theme=buefy&hide_border=true" alt="Nitya's GitHub Stats"/>
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitya-gosain-42037328b)
