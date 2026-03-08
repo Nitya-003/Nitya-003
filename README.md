@@ -51,6 +51,16 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitya-003&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitya-gosain-42037328b)
