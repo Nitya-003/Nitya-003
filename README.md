@@ -1,5 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Nitya Gosain</h1>
-<h3 align="center">🚀 A Curious Mind | Keen Researcher | CSE Undergrad</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Keen%20Researcher-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Keen Researcher" />
+  <img src="https://img.shields.io/badge/Curious%20Mind-FFD700?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Curious Mind" />
+  <img src="https://img.shields.io/badge/CSE%20Undergrad-4CAF50?style=for-the-badge&logo=electron&logoColor=white" alt="CSE Undergrad" />
+</p>
 
 <p align="center">
   <img src="https://i.gifer.com/2GU.gif" alt="Cat GIF" width="400">
@@ -13,6 +19,8 @@
 * **Mission:** Building innovative and purposeful solutions at the intersection of **Technology, Design, and AI**.
 * **Core Interest:** Specialized in **Web Development** with a growing curiosity in **AI and Blockchain**.
 * **Learning Style:** I believe in **learning by doing** and thrive on challenging projects and open-source collaboration.
+
+---
 
 ### 💡 Currently Focusing On
 - Seeking challenging projects in **Full-Stack Web Development (React/Node.js)** to contribute to.
@@ -54,21 +62,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitya-003&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
 </div>
 
 ---
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nitya-gosain-42037328b)
-- 📧 Email: nityagosain@gmail.com  
-- 💻 GitHub: [@Nitya-003](https://github.com/Nitya-003)
-
 <p align="center">
-  <a href="mailto:nityagosain@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nitya-gosain-42037328b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nityagosain@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Nitya-003">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -77,4 +87,10 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/nityagosaii"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code._Sleep._Research._Repeat.-C8A2C8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code. Sleep. Research. Repeat." />
 </p>
