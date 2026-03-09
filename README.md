@@ -17,14 +17,14 @@
 
 * **B.Tech. in CSE '28:** Currently pursuing my degree, focusing on core CS principles.
 * **Mission:** Building innovative and purposeful solutions at the intersection of **Technology, Design, and AI**.
-* **Core Interest:** Specialized in **Web Development** with a growing curiosity in **AI and Blockchain**.
+* **Core Interest:** Specialized in **Web Development** with a growing curiosity in **Blockchain**.
 * **Learning Style:** I believe in **learning by doing** and thrive on challenging projects and open-source collaboration.
 
 ---
 
 ### 💡 Currently Focusing On
 - Seeking challenging projects in **Full-Stack Web Development (React/Node.js)** to contribute to.
-- Actively exploring opportunities to apply **AI/ML** in real-world applications.
+- Actively exploring opportunities to apply **Blockchain** in real-world applications.
 - Always open to collaborating on **Open Source** projects!
 
 ---
@@ -73,20 +73,19 @@
   <a href="https://www.linkedin.com/in/nitya-gosain-42037328b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:nityagosain@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  
   <a href="https://github.com/Nitya-003">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-### ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/nityagosaii"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" /></a>
+  
+  <a href="https://www.buymeacoffee.com/nityagosaii">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
+  </a>
+  
 </p>
 
 ---
