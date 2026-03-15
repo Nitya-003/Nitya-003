@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nitya Gosain</h1>
+<h1 align="center">Hi there, I'm Nitya Gosain</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
@@ -13,7 +13,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 * **B.Tech. in CSE '28:** Currently pursuing my degree, focusing on core CS principles.
 * **Mission:** Building innovative and purposeful solutions at the intersection of **Technology, Design, and AI**.
@@ -22,25 +22,26 @@
 
 ---
 
-### 💡 Currently Focusing On
+### Currently Focusing On
 - Seeking challenging projects in **Full-Stack Web Development (React/Node.js)** to contribute to.
 - Actively exploring opportunities to apply **Blockchain** in real-world applications.
 - Always open to collaborating on **Open Source** projects!
 
 ---
 
-### 🏆 Achievements & Programs
+### Achievements & Programs
 
-- 🎓 **Harvard Aspire Alumni '25**
-- 💻 **Contributor @GirlScript Summer of Code '25**
-- 🚀 **Contributor @ Social Summer of Code '25**
-- 💼 **Microsoft Code Without Barriers '25**
+- **Contributor @Social Winter of Code '26**
+- **Contributor @DSC Winter of Code '26**
+- **Harvard Aspire Alumni '25**
+- **Contributor @Social Summer of Code '25**
+- **Microsoft Code Without Barriers '25**
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
-#### 🚀 Languages
+#### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -48,7 +49,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### ⚙️ Frameworks & Tools
+#### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -59,7 +60,7 @@
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitya-gosain-42037328b">
