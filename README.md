@@ -60,6 +60,15 @@
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Nitya-003&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F)
+</div>
+
+---
+
 ### Let’s Connect
 
 <p align="center">
