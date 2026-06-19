@@ -18,7 +18,6 @@
 * **B.Tech. in CSE '28:** Currently pursuing my degree, focusing on core CS principles.
 * **Mission:** Building innovative and purposeful solutions at the intersection of **Technology, Design, and AI**.
 * **Core Interest:** Specialized in **Web Development** with a growing curiosity in **Blockchain**.
-* **Learning Style:** I believe in **learning by doing** and thrive on challenging projects and open-source collaboration.
 
 ---
 
