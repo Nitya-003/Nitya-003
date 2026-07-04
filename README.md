@@ -30,8 +30,9 @@
 
 ### Achievements & Programs
 
+- **Project Admin @Social Summer of Code, GSSOC, DSCWOC '26**
+- **Mentor @Social Summer of Code, GSSOC '26**
 - **Contributor @Social Winter of Code '26**
-- **Contributor @DSC Winter of Code '26**
 - **Harvard Aspire Alumni '25**
 - **Contributor @Social Summer of Code '25**
 - **Microsoft Code Without Barriers '25**
