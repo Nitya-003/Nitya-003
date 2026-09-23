@@ -1,98 +1,157 @@
-<h1 align="center">Hi there, I'm Nitya Gosain</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-212121?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor" />
-  <img src="https://img.shields.io/badge/Keen%20Researcher-007ACC?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Keen Researcher" />
-  <img src="https://img.shields.io/badge/Curious%20Mind-FFD700?style=for-the-badge&logo=lightbulb&logoColor=black" alt="Curious Mind" />
-  <img src="https://img.shields.io/badge/CSE%20Undergrad-4CAF50?style=for-the-badge&logo=electron&logoColor=white" alt="CSE Undergrad" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,50:3B2F2F,100:6B4226&height=180&section=header&text=Nitya%20Gosain&fontSize=42&fontColor=E8DCC8&fontAlignY=40&desc=researcher%20%C2%B7%20developer%20%C2%B7%20restless%20mind&descAlignY=60&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://i.gifer.com/2GU.gif" alt="Cat GIF" width="400">
-</p>
+<br/>
 
----
+<i>"A nerd with a restless mind, an insatiable curiosity,<br/>and a quiet commitment to consistency."</i>
 
-### About Me
+<br/><br/>
 
-* **B.Tech. in CSE '28:** Currently pursuing my degree, focusing on core CS principles.
-* **Mission:** Building innovative and purposeful solutions at the intersection of **Technology, Design, and AI**.
-* **Core Interest:** Specialized in **Web Development** with a growing curiosity in **Blockchain**.
-* **Full Stack & Semantic Web Developer Intern @CSIR-NPL:** Actively working as an Intern @CSIR-NPL .
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-3B2F2F?style=for-the-badge&labelColor=171717&color=B8860B" />
+<img src="https://img.shields.io/badge/Keen-Researcher-3B2F2F?style=for-the-badge&labelColor=171717&color=8B5E3C" />
+<img src="https://img.shields.io/badge/Curious-Mind-3B2F2F?style=for-the-badge&labelColor=171717&color=A9925B" />
+<img src="https://img.shields.io/badge/CSE-Undergraduate-3B2F2F?style=for-the-badge&labelColor=171717&color=6B4226" />
 
----
+</div>
 
-### Currently Focusing On
-- Seeking challenging projects in **Full-Stack Web Development (React/Node.js)** to contribute to.
-- Actively exploring opportunities to apply **Blockchain** in real-world applications.
-- Always open to collaborating on **Open Source** projects!
+<br/>
 
----
+## About Me
 
-### Achievements & Programs
+I'm a **B.Tech Computer Science & Engineering** student (Class of 2028), currently working as a **Full Stack and Semantic Web Developer Intern at CSIR-NPL**. My interest lives at the intersection of core computer science and the quieter, more deliberate side of building - the kind that rewards patience over speed.
 
-- **Project Admin @Social Summer of Code, GSSOC, DSCWOC '26**
-- **Mentor @Social Summer of Code, GSSOC '26**
-- **Contributor @Social Winter of Code '26**
-- **Harvard Aspire Alumni '25**
-- **Contributor @Social Summer of Code '25**
-- **Microsoft Code Without Barriers '25**
+I spend my time between:
 
----
+- **Web Development** - building things end to end
+- **Blockchain** - exploring real-world applications, not just theory
+- **Research** - because I like understanding *why*, not just *how*
 
-### Tech Stack
+I'm a restless mind that enjoys learning, exploring, and consistently getting a little better than yesterday.
 
-#### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
-#### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## The Study Desk - Currently Exploring
 
----
+```
+┌──────────────────────────────────────────────┐
+│  Full Stack Web Development (React / Node.js)│
+│  Blockchain & real-world applications        │
+│  Open Source Contributions                   │
+│  Strengthening core CS fundamentals & DSA    │
+│  Consistent, quiet GitHub activity           │
+└──────────────────────────────────────────────┘
+```
 
-### GitHub Stats
+<br/>
+
+## Academic & Open Source Chronicles
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Nitya-003&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F)
+| Role | Program |
+|---|---|
+| Project Admin | Social Summer of Code, GSSOC, DSCWOC '26 |
+| Mentor | Social Summer of Code, GSSOC '26 |
+| Contributor | Social Winter of Code '26 |
+| Alumni | Harvard Aspire '25 |
+| Contributor | Social Summer of Code '25 |
+| Program Graduate | Microsoft Code Without Barriers '25 |
+
 </div>
 
----
+<br/>
 
-### Let’s Connect
+## Technical Arsenal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nitya-gosain-42037328b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:nityagosain@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  
-  <a href="https://github.com/Nitya-003">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <a href="https://www.buymeacoffee.com/nityagosaii">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ff813f?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
-  </a>
-  
-</p>
+**Languages**
 
----
+<img src="https://skillicons.dev/icons?i=cpp,java,js,solidity,html,css&theme=dark" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code._Sleep._Research._Repeat.-C8A2C8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code. Sleep. Research. Repeat." />
-</p>
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,threejs,nodejs,express,mongodb,vscode,git&theme=dark" />
+
+<br/>
+
+## Currently Reading
+
+<table>
+<tr>
+<td width="120" valign="top">
+<div align="center">📖</div>
+</td>
+<td>
+
+**Tuesdays with Morrie**
+*by Mitch Albom*
+
+A few pages in - the kind of book you read slowly on purpose, not because it's dense, but because it deserves the pause.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Beyond the Terminal
+
+Some evenings are for code. Others are for the board.
+
+<div align="center">
+
+<a href="https://www.chess.com/member/nitya_1103">
+<img src="https://img.shields.io/badge/Chess.com-nitya__1103-171717?style=for-the-badge&logo=chessdotcom&logoColor=6B4226&labelColor=171717" />
+</a>
+
+</div>
+
+<br/>
+
+## Chronicles of Contribution
+
+<div align="center">
+
+
+<img src="https://streak-stats.demolab.com/?user=Nitya-003&theme=dark&background=171717&stroke=3B2F2F&ring=B8860B&fire=8B5E3C&currStreakLabel=E8DCC8&sideLabels=E8DCC8&dates=A9925B" width="49%" />
+
+<br/>
+
+
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/B8860B/Nitya-003" width="90%" alt="Nitya's GitHub contribution chart" />
+
+</div>
+
+<br/>
+
+## Correspondence
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nitya-gosain-42037328b">
+<img src="https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=A9925B" />
+</a>
+<a href="mailto:nityagosain@gmail.com">
+<img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=A9925B" />
+</a>
+<a href="https://github.com/Nitya-003">
+<img src="https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=A9925B" />
+</a>
+<a href="https://www.buymeacoffee.com/nityagosaii">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-171717?style=for-the-badge&logo=buymeacoffee&logoColor=A9925B" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<i>Curiosity in thought. Consistency in practice.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B4226,50:3B2F2F,100:171717&height=100&section=footer" width="100%"/>
+
+</div>
