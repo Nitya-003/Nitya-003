@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a **B.Tech Computer Science & Engineering** student (Class of 2028), currently working as a **Full Stack and Semantic Web Developer Intern at CSIR-NPL**. My interest lives at the intersection of core computer science and the quieter, more deliberate side of building - the kind that rewards patience over speed.
+I'm a **B.Tech Computer Science & Engineering** student (Class of 2028), previously worked as a **Full Stack and Semantic Web Developer Intern at CSIR-NPL**. My interest lives at the intersection of core computer science and the quieter, more deliberate side of building - the kind that rewards patience over speed.
 
 I spend my time between:
 
