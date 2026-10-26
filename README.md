@@ -83,8 +83,8 @@ I'm a restless mind that enjoys learning, exploring, and consistently getting a 
 </td>
 <td>
 
-**Tuesdays with Morrie**
-*by Mitch Albom*
+**The Power of your Subconscious Mind**
+*by Dr Joseph Murphy*
 
 A few pages in - the kind of book you read slowly on purpose, not because it's dense, but because it deserves the pause.
 
