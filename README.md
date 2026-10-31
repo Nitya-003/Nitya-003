@@ -83,8 +83,8 @@ I'm a restless mind that enjoys learning, exploring, and consistently getting a 
 </td>
 <td>
 
-**The Power of your Subconscious Mind**
-*by Dr Joseph Murphy*
+**Metamorphosis**
+*by Franz Kafka*
 
 A few pages in - the kind of book you read slowly on purpose, not because it's dense, but because it deserves the pause.
 
