@@ -83,8 +83,8 @@ I'm a restless mind that enjoys learning, exploring, and consistently getting a 
 </td>
 <td>
 
-**Metamorphosis**
-*by Franz Kafka*
+**Beyond Good and Evil**
+*by Friedrich Nietzsche*
 
 A few pages in - the kind of book you read slowly on purpose, not because it's dense, but because it deserves the pause.
 
